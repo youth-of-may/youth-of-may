@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 • Hi, I'm Princess
+
 • 🌱 I’m currently learning Java & Python.
+
 • 👀 I'm interested in mobile development, machine learning, and robotics.
+
 • 📫 How to reach me: @ainttprincess on IG
 <!--
 **youth-of-may/youth-of-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
