@@ -1,12 +1,4 @@
-### Hi there 👋
 
-• Hi, I'm Princess
-
-• 🌱 I’m currently learning Java & Python.
-
-• 👀 I'm interested in mobile development, machine learning, and robotics.
-
-• 📫 How to reach me: @ainttprincess on IG
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -23,6 +15,20 @@
   </a>
 </div>
 <!--<img src="https://komarev.com/ghpvc/?username=youth-of-may&style=flat-square&color=blue" align="center" alt=""/>-->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### Hi there 👋
+
+• Hi, I'm Princess
+
+• 🌱 I’m currently learning Java & Python.
+
+• 👀 I'm interested in mobile development, machine learning, and robotics.
+
+• 📫 How to reach me: @ainttprincess on IG
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
 
