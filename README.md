@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=youth-of-may&style=flat-square&color=blue" align="center" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=youth-of-may&style=flat-square&color=blue" align="center" alt=""/>-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
 
