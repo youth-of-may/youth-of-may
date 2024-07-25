@@ -9,7 +9,9 @@
 
 <h3>Socials</h3>
 
----<br>
+---
+
+***
 
 
 <h3>Tech Stack</h3><br>
