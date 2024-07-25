@@ -7,7 +7,7 @@
 
 • 📫 How to reach me: @ainttprincess on IG
 
-<h3>Socials</h3><br>
+<h3>Socials</h3><br color = "white">
 
 
 <h3>Tech Stack</h3><br>
