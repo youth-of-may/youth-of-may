@@ -1,5 +1,7 @@
 
-<h1>Hi, I'm Princess👋</h1><br>
+<h1>Hi, I'm Princess👋</h1>
+
+---
 
 • 🌱 I’m currently learning Java & Python.
 
@@ -11,14 +13,13 @@
 
 ---
 
-***
 
 
-<h3>Tech Stack</h3><br>
+<h3>Tech Stack</h3>
+---
 
-
-<h3>Github Stats</h3><br>
-
+<h3>Github Stats</h3>
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
 
