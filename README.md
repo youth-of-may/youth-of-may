@@ -1,20 +1,20 @@
 
-<h1>Hi, I'm Princess👋</h1>
-<br>
+<h1>Hi, I'm Princess👋</h1><br>
+
 • 🌱 I’m currently learning Java & Python.
 
 • 👀 I'm interested in mobile development, machine learning, and robotics.
 
 • 📫 How to reach me: @ainttprincess on IG
 
-<h3>Socials</h3>
-<br>
+<h3>Socials</h3><br>
 
-<h3>Tech Stack</h3>
-<br>
 
-<h3>Github Stats</h3>
-<br>
+<h3>Tech Stack</h3><br>
+
+
+<h3>Github Stats</h3><br>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
 
