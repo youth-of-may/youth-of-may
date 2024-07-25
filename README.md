@@ -22,7 +22,7 @@
 
 <h3>Tech Stack:</h3>
 <div id="languages">
-    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Java?style=for-the-badge&labelColor=#0199e5&logo=&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/Python-labelColor=blue?style=for-the-badge&logo=Python&logoColor=white" alt="Instagram Badge"/>
     <img src="https://img.shields.io/badge/HTML-labelColor=#0199e5?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/CSS-labelColor=#46cd11?style=for-the-badge&logo=Python&logoColor=white" alt="Instagram Badge"/>
