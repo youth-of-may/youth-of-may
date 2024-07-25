@@ -9,7 +9,7 @@
 • 📫 How to reach me: @ainttprincess on IG
 
 <section>
-<h3>Socials</h3>
+<h3>Socials:</h3>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,8 +20,10 @@
 </div>
 </section>
 
-<h3>Tech Stack</h3>
-
+<h3>Tech Stack:</h3>
+<div id="languages">
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 
 <h3>Github Stats</h3>
 
