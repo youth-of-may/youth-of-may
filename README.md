@@ -7,14 +7,15 @@
 
 • 📫 How to reach me: @ainttprincess on IG
 
-<h1>Socials</h1>
+<h3>Socials</h3>
 <br>
 
-<h1>Tech Stack</h1>
+<h3>Tech Stack</h3>
 <br>
 
-<h1>Github Stats</h1>
+<h3>Github Stats</h3>
 <br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youth-of-may&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
