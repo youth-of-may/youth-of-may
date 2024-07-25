@@ -1,7 +1,6 @@
 
 <h1>Hi, I'm Princess👋</h1>
 
----
 
 • 🌱 I’m currently learning Java & Python.
 
@@ -10,16 +9,27 @@
 • 📫 How to reach me: @ainttprincess on IG
 
 <h3>Socials</h3>
-
----
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-facebook-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 
 <h3>Tech Stack</h3>
----
+
 
 <h3>Github Stats</h3>
----
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
 
