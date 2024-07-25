@@ -22,7 +22,7 @@
 
 <h3>Tech Stack:</h3>
 <div id="languages">
-    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 
 <h3>Github Stats</h3>
