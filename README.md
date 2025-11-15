@@ -1,7 +1,7 @@
 <h1>Hi, I'm Princess👋</h1>
 
-- 🌱 I'm currently learning Java & Python.  
-- 👀 I'm interested in mobile development, machine learning, and robotics.  
+- 🌱 I'm currently learning machine learning and blockchain.  
+- 👀 I'm interested in web development, machine learning, and blockchain.  
 - 📫 How to reach me: @ainttprincess on IG
 
 <section>
