@@ -27,7 +27,7 @@
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youth-of-may" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youth-of-may&theme=github_dark" alt="Top Languages"/>
 </div>
 
 <!--
