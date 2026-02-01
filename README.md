@@ -26,7 +26,7 @@
 <h3>Github Stats</h3>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youth-of-may&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youth-of-may&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 <!--
 **youth-of-may/youth-of-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
