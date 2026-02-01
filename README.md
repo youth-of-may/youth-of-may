@@ -1,21 +1,18 @@
 <h1>Hi, I'm Princess👋</h1>
-
 - 🌱 I'm currently learning machine learning and blockchain.  
 - 👀 I'm interested in web development, machine learning, and blockchain.  
 - 📫 How to reach me: @ainttprincess on IG
-
 <section>
 <h3>Socials:</h3>
 <div id="badges">
-  <a href="www.linkedin.com/princessmaygiron">
+  <a href="https://www.linkedin.com/in/princessmaygiron">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.instagram.com/ainttprincess">
+  <a href="https://www.instagram.com/ainttprincess">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 </section>
-
 <h3>Tech Stack:</h3>
 <div id="languages">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
@@ -26,13 +23,11 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/>
 </div>
-
 <h3>Github Stats</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youth-of-may&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=youth-of-may&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youth-of-may&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
 <!--
 **youth-of-may/youth-of-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
